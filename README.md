@@ -9,16 +9,24 @@ The repo is structured to support a series of blog posts hosted on [Substack](#)
 ## 🚀 Repository Structure
 
 Volatility-Indicators-Crypto/
-├── notebooks/
-│   ├── 01_intro_volatility_metrics.ipynb
-│   └── 02_advanced_volatility_models.ipynb
-├── lib/
-│   └── volatility_metrics.py
-├── data/                  
-│   └── BTCBUSD-1h-data.csv
-│   └── ETHBUSD-1h-data.csv
-├── README.md
 
+├── notebooks/
+
+│   ├── 01_intro_volatility_metrics.ipynb
+
+│   └── 02_advanced_volatility_models.ipynb
+
+├── lib/
+
+│   └── volatility_metrics.py
+
+├── data/                  
+
+│   └── BTCBUSD-1h-data.csv
+
+│   └── ETHBUSD-1h-data.csv
+
+├── README.md
 
 ---
 
