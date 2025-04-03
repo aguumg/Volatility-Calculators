@@ -26,6 +26,7 @@ Simulation_results/
 plots/
 docs/
 config_n_data/
+plots/
 *.egg-info/
 .installed.cfg
 *.egg
