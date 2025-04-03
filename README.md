@@ -53,3 +53,5 @@ Planned for future updates:
 
 ---
 
+🧠 Author
+This repo is maintained by @aguumg, a mathematician and researcher in risk modeling, DeFi, and crypto token engineering. For collaborations or consulting, feel free to reach out!
