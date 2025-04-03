@@ -81,3 +81,8 @@ def efficiency_ratio(roc: pd.Series, atr: pd.Series) -> pd.Series:
     Efficiency ratio: ROC / ATR. High when trends are strong and smooth.
     """
     return roc / atr
+
+if __name__ == '__main__':
+    import pandas as pd
+
+    df = pd.read_csv("data/BTCBUSD-1h-data.csv", parse_dates=["timestamp"])
